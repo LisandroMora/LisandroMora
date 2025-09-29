@@ -20,7 +20,6 @@ const lisandro = {
   current_role: "Frontend Developer @ Floowi",
   experience: "4+ years building scalable web applications",
   focus: ["React Architecture", "Performance Optimization", "User Experience"],
-  currently_learning: ["Next.js 15", "React Server Components", "Micro-frontends"],
   languages: ["Spanish (Native)", "English (C1 Advanced)"],
   open_to: ["Remote opportunities", "Tech Lead roles", "Interesting challenges"]
 };
