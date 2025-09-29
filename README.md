@@ -17,7 +17,7 @@
 ```typescript
 const lisandro = {
   location: "Santo Domingo, Dominican Republic 🇩🇴",
-  current_role: "Senior Frontend Developer @ Floowi",
+  current_role: "Frontend Developer @ Floowi",
   experience: "4+ years building scalable web applications",
   focus: ["React Architecture", "Performance Optimization", "User Experience"],
   currently_learning: ["Next.js 15", "React Server Components", "Micro-frontends"],
@@ -58,8 +58,6 @@ const lisandro = {
 #### **Testing & Quality**
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 #### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -69,10 +67,6 @@ const lisandro = {
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-#### **Backend (Familiarity)**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -92,14 +86,14 @@ const lisandro = {
 ### 💼 Professional Experience Highlights
 
 #### 🚀 **Floowi** (Florida, US - Remote) | *Jan 2025 - Present*
-**Senior Frontend Developer**
+**Frontend Developer**
 - Leading high-performance UI development with React & TypeScript
 - Increased conversion rates by 18% through CRO optimization
 - Achieved 92+ Lighthouse scores across all key metrics
 - Tech: React, Next.js 14, TypeScript, Tailwind CSS, Zustand
 
 #### 💻 **New Tech SRL** (Santo Domingo, DR) | *Jul 2022 - Jan 2025*
-**Frontend Developer**
+**Software Engineer**
 - Built enterprise platform serving 50K+ monthly users
 - Reduced bundle size by 35% through optimization strategies
 - Increased test coverage from 45% to 78%
@@ -114,16 +108,6 @@ const lisandro = {
 
 ---
 
-### 🎯 Key Achievements
-
-✅ **Performance Optimization:** Reduced page load times by 40% through strategic code splitting and optimization  
-✅ **Quality Engineering:** Improved test coverage from 45% to 78%, reducing production bugs by 60%  
-✅ **Business Impact:** Increased conversion rates by 18% through data-driven CRO initiatives  
-✅ **Team Leadership:** Mentored 2+ junior developers in React best practices and modern patterns  
-✅ **Scalable Architecture:** Built component systems accelerating feature development by 40%
-
----
-
 ### 🎓 Education & Certifications
 
 **🎓 APEC University (UNAPEC)**  
@@ -131,20 +115,6 @@ Bachelor's in Software Engineering | 2024 - Present
 
 **🎓 Instituto Tecnológico de las Américas (ITLA)**  
 Software Development | 2020 - 2022 (Honors)
-
-**📜 Certifications:**
-- ✅ EF SET English Certificate - C1 Advanced (2023)
-- ✅ React Advanced Patterns - Frontend Masters (2024)
-- ✅ Next.js 14 & Server Components - Udemy (2024)
-- ✅ Web Performance Optimization - Google (2023)
-
----
-
-### 📝 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-*Coming soon! Writing about React patterns, performance optimization, and modern frontend architecture.*
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
