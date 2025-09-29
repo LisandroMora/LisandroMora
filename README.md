@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0891B2&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Lisandro+Mora;Senior+Frontend+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0891B2&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Lisandro+Mora;Frontend+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🎯 Frontend Developer | React • Next.js • TypeScript</h3>
