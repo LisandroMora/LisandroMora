@@ -87,24 +87,21 @@ const lisandro = {
 
 #### 🚀 **Floowi** (Florida, US - Remote) | *Jan 2025 - Present*
 **Frontend Developer**
-- Leading high-performance UI development with React & TypeScript
+- Leading high-performance UI development
 - Increased conversion rates by 18% through CRO optimization
 - Achieved 92+ Lighthouse scores across all key metrics
-- Tech: React, Next.js 14, TypeScript, Tailwind CSS, Zustand
 
 #### 💻 **New Tech SRL** (Santo Domingo, DR) | *Jul 2022 - Jan 2025*
 **Software Engineer**
 - Built enterprise platform serving 50K+ monthly users
 - Reduced bundle size by 35% through optimization strategies
 - Increased test coverage from 45% to 78%
-- Tech: React, Next.js, Redux, Jest, PostgreSQL
 
 #### 🎨 **DUV Agency** (Santo Domingo, DR) | *Jun 2020 - Jul 2022*
 **Frontend Developer**
 - Developed 30+ accessible websites (WCAG 2.1 AA)
 - Achieved first-page rankings for 8 client businesses
 - Implemented performant animations maintaining 60fps
-- Tech: React, JavaScript, Sass, WordPress
 
 ---
 
